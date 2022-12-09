@@ -4,9 +4,6 @@
 // after you already figured it out. If you got everything working and feel
 // ready for the next exercise, remove the `I AM NOT DONE` comment below.
 // Execute the command `rustlings hint intro1` for a hint.
-
-// I AM NOT DONE
-
 fn main() {
     println!("Hello and");
     println!(r#"       welcome to...                      "#);
